@@ -1,0 +1,9 @@
+data/
+usc-x-24-us-election/
+*.pkl
+*.csv
+*.parquet
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
