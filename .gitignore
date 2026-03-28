@@ -1,1 +1,9 @@
-.vscode/
+*.pkl
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/
+*.npy
+*.csv
